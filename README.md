@@ -1,6 +1,7 @@
-# transformer_encoder-for-Tweets-encoding
+# Transformer-Encoder-for-Tweets-Data-Encoding
 
-transformer_encoder-for-Tweets-encoding is an implementation of just the encoder part of the Transformer.
+
+Transformer-Encoder-for-Tweets-Data-Encoding is an implementation of just the encoder part of the Transformer.
 This is based on Attention is all you need.
 
 # What is covered?
